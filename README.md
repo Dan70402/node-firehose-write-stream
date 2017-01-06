@@ -1,5 +1,6 @@
 # firehose-write-stream
 
+A port from [kinesis-write-stream](https://github.com/voldern/kinesis-write-stream) for use with AWS Firehose.
 Firehose writable stream that buffers up records
 
 # Usage
