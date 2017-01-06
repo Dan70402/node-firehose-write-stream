@@ -1,0 +1,9 @@
+{
+    "FailedPutCount": 0,
+    "RequestResponses": [
+      { "RecordId": "1111" },
+      { "RecordId": "2222" },
+      { "RecordId": "3333" },
+      { "RecordId": "4444" }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "FailedPutCount": 2,
+    "RequestResponses": [
+        { "RecordId": "1111" },
+        { "ErrorCode": "ProvisionedThroughputExceededException",
+          "ErrorMessage": "Rate exceeded for shard ..." },
+        { "RecordId": "2222" },
+        { "ErrorCode": "ProvisionedThroughputExceededException",
+          "ErrorMessage": "Rate exceeded for shard ..." }
+    ]
+}
